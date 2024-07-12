@@ -8,7 +8,7 @@ I am B.Tech computer science student and a Front-End Developer.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Aashishsingh1317@gmail.com](mailto:Aashishsingh1317@gmail.com)
-* 🤝  I'm open to collaborating on intersecting frontend projects
+* 🤝  I'm open to collaborating on intersecting projects
 
 ### Skills
 
