@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stacik Developer<br>🤝Open for collaboration<br>🌱 I’m currently learning Machine Learning and OpenCv<br>
+🔭 I’m currently working as a Full Stack Developer<br>🤝Open for collaboration<br>🌱 I’m currently learning Machine Learning and OpenCv<br>
 
 
 ## 🌐 Socials:
